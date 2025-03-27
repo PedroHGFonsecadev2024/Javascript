@@ -1,3 +1,3 @@
-const arraypar = () => {
-    
+const arraypar = (input) => {
+  
 }
